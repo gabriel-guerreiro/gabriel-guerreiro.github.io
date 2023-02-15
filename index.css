@@ -1,0 +1,43 @@
+
+.background {
+    background-image: url(fundo-futurista-abstrato-com-design-3d.jpg);
+   image
+}
+
+.headline {
+   background-color: rgb(135, 255, 48);
+   padding-left: 10px;
+   border-radius: 30px;
+   margin-left: 38.5%;
+   margin-right: 44.5%;
+}
+
+.bodyclass {
+    font-family: 'Courier New', Courier, monospace;
+    
+ }
+.skillsbox1 {
+    float:left;
+}
+.skillsbox2 {
+    margin-left:5%;
+    float:left;
+    margin-right: 10%;
+}
+.websites {
+    float:left;
+ 
+}
+
+
+.socialnetwork {
+    margin-left: 5%;
+    float: left;
+}
+
+.imagem {
+    border-radius: 180px;
+}
+.fotoperfil{
+    
+}
