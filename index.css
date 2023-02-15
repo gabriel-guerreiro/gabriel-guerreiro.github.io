@@ -1,20 +1,20 @@
 
 .background {
     background-image: url(fundo-futurista-abstrato-com-design-3d.jpg);
-   image
+
 }
 
 .headline {
    background-color: rgb(135, 255, 48);
-   padding-left: 10px;
+   
    border-radius: 30px;
-   margin-left: 38.5%;
-   margin-right: 44.5%;
+   margin-inline: 57rem;
+   padding-inline: 1rem;
 }
 
-.bodyclass {
+.body {
     font-family: 'Courier New', Courier, monospace;
-    
+    float:middle;
  }
 .skillsbox1 {
     float:left;
@@ -26,18 +26,31 @@
 }
 .websites {
     float:left;
+    margin-right:5%;
+    margin-bottom:15.5%;
  
 }
 
 
 .socialnetwork {
-    margin-left: 5%;
+    
     float: left;
 }
 
-.imagem {
+.perfilimagem {
     border-radius: 180px;
+    float:right;
+    margin-right: 5%;
+    margin-left: 10%;
+    margin-top: 1%;
+} 
+.boxwebredes {
+    float:left;
 }
-.fotoperfil{
-    
+
+.position1 {
+    float: inline-start;
+}
+.habtec {
+    float: left;
 }
