@@ -6,15 +6,17 @@
     border-radius: 40px;
 }
 .body{
-    
+    font-family: monospace;
 }
 
+body .teste {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 
 .skills{
     
 }
-
 
 
 .websites {
@@ -30,6 +32,7 @@
     border-radius: 180px;
     float:right;
     margin-right: 60%;
-    margin-top: 8%;
+    margin-top: 3%;
+    display: flex;
     
 }
